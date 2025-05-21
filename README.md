@@ -1,3 +1,6 @@
+> [!WARNING]
+> **注: このリポジトリは Cursor を使用して作成しています。**
+
 # Random Binary File Generator
 
 ランダムなバイナリファイルを生成するコマンドラインツール。
